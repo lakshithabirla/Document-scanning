@@ -1,0 +1,6 @@
+{
+  "name": "TrustRAG — Basic Document Question Answering System",
+  "description": "A clean, lightweight document question answering system using PyMuPDF, Sentence Transformers, and FAISS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
